@@ -1,4 +1,4 @@
-import 'package:blocformvalidation/screens/signin/bloc/bloc/signin_bloc.dart';
+import 'package:blocformvalidation/features/auth/bloc/bloc/signin_bloc.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
